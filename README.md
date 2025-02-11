@@ -1,4 +1,4 @@
-The repository contains an example (.ipynb-file) of a manually controlled implementation of the scoring algorithm described in detail in our paper [https://www.mdpi.com/1424-8220/25/3/921](here).
+The repository contains an example (.ipynb-file) of a manually controlled implementation of the scoring algorithm described in detail in our paper [here](https://www.mdpi.com/1424-8220/25/3/921).
 Briefly, the scoring algorithm is suitable for 1-channel (EEG) rodent data (in .smr format in the example).
 
 More documentation, fully automatic version for bulk analysis, and a tutorial video are coming soon!
